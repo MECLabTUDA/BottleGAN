@@ -1,0 +1,68 @@
+fold_folder: configs/dataset/peso/one/
+id0:
+  labeled: false
+  n_regions: -1
+id1:
+  labeled: false
+  n_regions: -1
+id10:
+  labeled: true
+  n_regions: 1
+id11:
+  labeled: false
+  n_regions: -1
+id12:
+  labeled: true
+  n_regions: 6
+id13:
+  labeled: true
+  n_regions: 6
+id14:
+  labeled: true
+  n_regions: 9
+id15:
+  labeled: true
+  n_regions: 1
+id16:
+  labeled: false
+  n_regions: -1
+id17:
+  labeled: false
+  n_regions: -1
+id18:
+  labeled: true
+  n_regions: 6
+id19:
+  labeled: false
+  n_regions: -1
+id2:
+  labeled: false
+  n_regions: -1
+id3:
+  labeled: true
+  n_regions: 11
+id4:
+  labeled: true
+  n_regions: 11
+id5:
+  labeled: true
+  n_regions: 6
+id6:
+  labeled: true
+  n_regions: 3
+id7:
+  labeled: false
+  n_regions: -1
+id8:
+  labeled: false
+  n_regions: -1
+id9:
+  labeled: false
+  n_regions: -1
+length: 2000
+n_files: 1
+server:
+  labeled: false
+  length: 2000
+  n_files: 4
+  n_regions: -1

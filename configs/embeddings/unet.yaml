@@ -1,0 +1,4 @@
+embedding_architecture:
+  name: unet
+  n_classes: 2
+  image_size: 114

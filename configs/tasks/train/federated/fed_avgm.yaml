@@ -1,0 +1,10 @@
+supervisor:
+  name: fed_avgm
+task:
+  name: train
+  pretrained: False
+  pretrained_opt: False
+  n_rounds: 100
+  n_clients_per_round: 4
+  server_momentum: 0.1
+  only_labeled: True

@@ -1,0 +1,68 @@
+fold_folder: configs/dataset/peso/two/
+id0:
+  labeled: false
+  n_regions: -1
+id1:
+  labeled: true
+  n_regions: 6
+id10:
+  labeled: true
+  n_regions: 10
+id11:
+  labeled: true
+  n_regions: 2
+id12:
+  labeled: false
+  n_regions: -1
+id13:
+  labeled: true
+  n_regions: 5
+id14:
+  labeled: false
+  n_regions: -1
+id15:
+  labeled: true
+  n_regions: 2
+id16:
+  labeled: true
+  n_regions: 7
+id17:
+  labeled: true
+  n_regions: 5
+id18:
+  labeled: false
+  n_regions: -1
+id19:
+  labeled: false
+  n_regions: -1
+id2:
+  labeled: true
+  n_regions: 6
+id3:
+  labeled: false
+  n_regions: -1
+id4:
+  labeled: true
+  n_regions: 10
+id5:
+  labeled: true
+  n_regions: 7
+id6:
+  labeled: false
+  n_regions: -1
+id7:
+  labeled: false
+  n_regions: -1
+id8:
+  labeled: false
+  n_regions: -1
+id9:
+  labeled: false
+  n_regions: -1
+length: 2000
+n_files: 1
+server:
+  labeled: false
+  length: 2000
+  n_files: 4
+  n_regions: -1

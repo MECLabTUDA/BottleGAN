@@ -1,0 +1,15 @@
+supervisor:
+  name: stain_evaluation
+
+task:
+  name: test
+  epochs: 1
+  batch_size: 120
+  num_workers: 32
+
+embedding_architecture:
+  many_to_one: True
+
+dataset:
+  type: test
+

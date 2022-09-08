@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (bg)" project-jdk-type="Python SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1558" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/run_federated.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="284" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/run_single.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/create_stainings.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="196" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/helper/restain_mancenko_peso.sh" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/experiments/federated/results/fed_bottle/2_one_0.json" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/experiments/federated/results/fed_bottle/2_one_1.json" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="3188" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/.gitignore" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="362" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/helper/restain_down.sh" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/configs/dataset/peso/one/clients/1_train.txt" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="21215" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/datasets/wsi_data.py" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

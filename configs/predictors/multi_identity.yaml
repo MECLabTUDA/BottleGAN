@@ -1,0 +1,2 @@
+predictor_architecture:
+  name: multi_args_identity

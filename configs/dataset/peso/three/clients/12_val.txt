@@ -1,0 +1,1 @@
++++ ../patho_data/peso/pds_44_HE_S17.tif ../patho_data/peso/pds_44_HE_labels.tif

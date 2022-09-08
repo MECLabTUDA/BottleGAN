@@ -1,0 +1,5 @@
+supervisor:
+  name: base_evaluator
+
+task:
+  name: test

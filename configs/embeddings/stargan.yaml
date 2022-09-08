@@ -1,0 +1,5 @@
+embedding_architecture:
+  name: stargan
+  image_size: 114
+  be: False
+  noisy: False
