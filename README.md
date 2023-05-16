@@ -8,7 +8,7 @@ BottleGAN provides a Generative Adversarial Networks (GAN) which allows to align
 This repository contains the code for BottleGAN and and different scripts for defining federated tasks, training and evaluation which will be explained in the following.
 
 ## Installation
-- git clone https://github.com/nwWag/BottleGAN_prerelease.git
+- git clone https://github.com/MECLabTUDA/BottleGAN.git
 - conda create -n bottlegan python=3.9
 
 Install the following dependencies that are all available with pip
