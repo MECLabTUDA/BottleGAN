@@ -3,7 +3,7 @@ This repo contains an implementation the pure BottleGAN of the 2022 MICCAI paper
 This contains non-federated stain normalization of BottleGAN and should be easier to deploy in differen contexts.
 
 ## Installation
-- git clone https://github.com/nwWag/BottleGAN_prerelease.git
+- git clone https://github.com/MECLabTUDA/BottleGAN.git
 - conda create -n bottlegan python=3.9
 
 Install the following dependencies that are all available with pip
