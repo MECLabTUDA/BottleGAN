@@ -1,8 +1,0 @@
-embedding_architecture:
-  name: bottlegan
-  image_size: 114
-  be: False
-  split_embeddings: False
-  noisy: False
-  linear: False
-

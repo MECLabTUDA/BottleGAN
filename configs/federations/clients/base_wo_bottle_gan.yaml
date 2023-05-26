@@ -1,8 +1,0 @@
-embedding: configs/embeddings/unet.yaml 
-predictor: configs/predictors/scaled.yaml
-task: configs/tasks/train/single/base.yaml
-unlabeled_task: configs/tasks/train/single/base.yaml
-test_task: configs/tasks/test/single/base.yaml
-data: 
-augmentations: configs/augmentations/all_semi.yaml
-unlabeled_augmentations: configs/augmentations/off.yaml
