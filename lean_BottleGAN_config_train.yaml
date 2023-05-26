@@ -1,0 +1,27 @@
+embedding_architecture:
+  name: bottlegan
+  image_size: 114
+  be: False
+  split_embeddings: False
+  noisy: False
+  linear: False
+  
+predictor_architecture:
+  name: identity
+
+supervisor:
+  name: stain_bottle_transfer
+
+task:
+  name: train
+  lr: 0.0001
+  epochs: 1
+  batch_size: 36
+  pretrained: False
+  pretrained_opt: False
+  num_workers: 32
+
+
+dataset:
+  n_examples: 1
+
